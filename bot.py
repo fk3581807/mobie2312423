@@ -6,8 +6,8 @@ import clickfly
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = 'YOUR_BOT_TOKEN'  # replace with your bot token
-CLICKFLY_API_KEY = 'YOUR_CLICKFLY_API_KEY'  # replace with your ClickFly API key
+TOKEN = '6908218017:AAGBdbWTsPX2MNpIQPiPkaonOT4KOfH7Beo'  # replace with your bot token
+CLICKFLY_API_KEY = '03f543783354959d96cf3fce5b67c620231394eb'  # replace with your ClickFly API key
 
 clickfly.set_api_key(CLICKFLY_API_KEY)
 
